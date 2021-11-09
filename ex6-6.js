@@ -1,5 +1,5 @@
-var who65 = 'world';
-function sayhello65() {alert('Hello, ' + who65 + '!');}
-function taro65() {who65 = '太郎';}
-function hanako65() {who65 = '花子';}
-function gakita() {alert(who65 + 'がきた ');}
+var who67 = 'world';
+function sayhello67() {alert('Hello, ' + who67 + '!');}
+function someone(x) {who67 = 'レイ';}
+function someone(x) {who67 = 'シンジ';}
+function someone(x) {who67 = 'アスカ';}
