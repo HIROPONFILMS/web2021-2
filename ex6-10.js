@@ -1,1 +1,1 @@
-function imgchange1() {document.getElementById('logo').src= './image/keiei.jpg';}
+function imgchange1() {document.getElementById('logo'). src= './image/keiei17.jpg' ;}
